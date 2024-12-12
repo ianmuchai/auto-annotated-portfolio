@@ -14,8 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Ian Muchai.                                   I’m a developer, digital
-      artist, consultant and a bunch of other impressive titles and buzz words.
+      i AM Ian Muchai.                                   I’m a developer,
+      digital artist, consultant and a bunch of other impressive titles and buzz
+      words.
     subtitle: >-
       My name is Ian. I’m sharing all this with y'all to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, call
