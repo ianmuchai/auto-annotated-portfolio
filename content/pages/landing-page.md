@@ -4,7 +4,7 @@ title: Ian
 sections:
   - type: HeroSection
     title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
+      I'm a developer, digital artist, marketing consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info — I'm sharing it all this with ya'll to impress you with
